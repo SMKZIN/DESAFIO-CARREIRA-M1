@@ -1,8 +1,9 @@
-## Desafio de carreira
+<h1>  🚀 Desafio de carreira 🚀 </h1>
+
 ![giphy2](https://github.com/user-attachments/assets/61ade58c-750a-4abf-9a48-768e96f0bea2)
 
 
-## 1- Oque eu aprendi no módulo 1: <br>
+## 1 - Oque eu aprendi no módulo 1 🤔 <br>
 ![giphy(2)](https://github.com/user-attachments/assets/d81cced4-d8a6-458e-96b7-bcbe106f864d)
 
 
@@ -32,7 +33,7 @@
     
     
 
-## 2- Oque vou aprender no módulo 2: <br>
+## 2 - Oque vou aprender no módulo 2 🤔 <br>
 ![giphy(1)](https://github.com/user-attachments/assets/67cb385e-bf64-490c-91c2-fb7c7e80a288)
 
     • Aprofundamento em lógica de programação:
