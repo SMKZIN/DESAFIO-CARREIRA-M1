@@ -11,10 +11,10 @@
     
     1) Pensamento Computacional
     2) Algoritmos.
-    3) Pensamento Computacional
-    4) Variáveis, constantes e tipos de dados.
-    5) Operadores e condicionais.
-    6) Estruturas de repetição.
+    3) Variáveis, constantes e tipos de dados.
+    4) Operadores e condicionais.
+    5) Estruturas de repetição.
+    
 
     • Git e GitHub:
     
