@@ -51,6 +51,6 @@
     
 
 
-## 3- Oque aprendi no módulo 2 🤔: 
+## 3- Oque aprendi no módulo 2 🤔 
 
     undefined
