@@ -51,20 +51,20 @@
     
 
 
-## 3- Oque aprendi no módulo 2 🤔 
+## 3 - Oque aprendi no módulo 2 🤔 
 
     • Aprofundamento em lógica de programação:
     
-    1) Funções.
-    2) Tipos de dados.
-    3) Tipos de utilitários.
-    4) Métodos de arrays.
+    1) Manipulação de funcoes com metodos ou sem metodos.
+    2) Como tipar dados.
+    3) Tipos utilitarios para conseguir manipular dados.
+    4) Manipulacao de arrays usando metodos.
 
     • Carreira:
     
-    1) Gestão de tempo.
-    2) Postura Profissional.
-    3) LinkedIn: primeiros passos
+    1) Leitura de documentaçao.
+    2) Metodologias ageis.
+    3) LinkedIn
 
 
     
