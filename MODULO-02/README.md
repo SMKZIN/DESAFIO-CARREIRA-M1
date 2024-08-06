@@ -52,6 +52,7 @@
 
 
 ## 3 - Oque aprendi no módulo 2 🤔 
+![giphy](https://github.com/user-attachments/assets/9794b811-7480-49af-be54-c457a46cadd4)
 
     • Aprofundamento em lógica de programação:
     
